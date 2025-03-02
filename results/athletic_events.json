@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "duTeam": "Women's Basketball",
+      "opponent": "South Dakota State",
+      "date": "February 27, 2025, 6:00 p.m. MT"
+    },
+    {
+      "duTeam": "Men's Basketball",
+      "opponent": "Kansas City",
+      "date": "February 27, 2025, 6 p.m. MT"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "BYU",
+      "date": "February 28, 2025, 5 p.m. MT"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "Iowa State, (18) NC State",
+      "date": "February 28, 2025, 5:30 p.m. MT"
+    },
+    {
+      "duTeam": "Men's Lacrosse",
+      "opponent": "Marist",
+      "date": "February 28, 2025, 6 p.m. MT"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "February 28, 2025, 7 p.m. MT"
+    },
+    {
+      "duTeam": "Women's Basketball",
+      "opponent": "South Dakota",
+      "date": "March 1, 2025, 12 p.m. MT"
+    },
+    {
+      "duTeam": "Women's Lacrosse",
+      "opponent": "Maryland",
+      "date": "March 1, 2025, 10 a.m. MT"
+    },
+    {
+      "duTeam": "Men's Basketball",
+      "opponent": "South Dakota State",
+      "date": "March 1, 2025, 1 p.m. MT"
+    },
+    {
+      "duTeam": "Women's Tennis",
+      "opponent": "Kansas City",
+      "date": "March 1, 2025, 1:30 p.m. MT"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "March 1, 2025, 6 p.m. MT"
+    },
+    {
+      "duTeam": "Women's Tennis",
+      "opponent": "Omaha",
+      "date": "March 2, 2025, 10 a.m. MT"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "Utah",
+      "date": "March 2, 2025, 12 p.m. MT"
+    },
+    {
+      "duTeam": "Men's Lacrosse",
+      "opponent": "Quinnipiac",
+      "date": "March 2, 2025, 12 p.m. MT"
+    },
+    {
+      "duTeam": "Men's Soccer",
+      "opponent": "Colorado Rapids II",
+      "date": "March 2, 2025, 1 p.m. MT"
+    },
+    {
+      "duTeam": "Women's Golf",
+      "opponent": "Round 1/2",
+      "date": "March 3, 2025"
+    },
+    {
+      "duTeam": "Women's Golf",
+      "opponent": "Round 3",
+      "date": "March 4, 2025"
+    },
+    {
+      "duTeam": "Skiing",
+      "opponent": "Giant Slalom",
+      "date": "March 5, 2025"
+    },
+    {
+      "duTeam": "Women's Lacrosse",
+      "opponent": "Michigan",
+      "date": "March 5, 2025, 12 p.m. MT"
+    },
+    {
+      "duTeam": "Women's Basketball",
+      "opponent": "Omaha ",
+      "date": "March 5, 2025, 3:30 p.m. MT"
+    }
+  ]
+}
